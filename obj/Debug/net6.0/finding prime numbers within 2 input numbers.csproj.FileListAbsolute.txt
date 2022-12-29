@@ -1,0 +1,15 @@
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\finding prime numbers within 2 input numbers.csproj.AssemblyReference.cache
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\finding prime numbers within 2 input numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\finding prime numbers within 2 input numbers.AssemblyInfoInputs.cache
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\finding prime numbers within 2 input numbers.AssemblyInfo.cs
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\finding prime numbers within 2 input numbers.csproj.CoreCompileInputs.cache
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\bin\Debug\net6.0\finding prime numbers within 2 input numbers.exe
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\bin\Debug\net6.0\finding prime numbers within 2 input numbers.deps.json
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\bin\Debug\net6.0\finding prime numbers within 2 input numbers.runtimeconfig.json
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\bin\Debug\net6.0\finding prime numbers within 2 input numbers.dll
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\bin\Debug\net6.0\finding prime numbers within 2 input numbers.pdb
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\finding prime numbers within 2 input numbers.dll
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\refint\finding prime numbers within 2 input numbers.dll
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\finding prime numbers within 2 input numbers.pdb
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\finding prime numbers within 2 input numbers.genruntimeconfig.cache
+C:\Users\mosta\source\repos\finding prime numbers within 2 input numbers\obj\Debug\net6.0\ref\finding prime numbers within 2 input numbers.dll
